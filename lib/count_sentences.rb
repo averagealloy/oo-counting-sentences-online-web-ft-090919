@@ -16,6 +16,6 @@ class String
   end
 
   def count_sentences
-    delf.split(/[.?!]+/)
+    delf.split(/[.?!]+/).count 
   end
 end
