@@ -3,7 +3,7 @@ require 'pry'
 class String
 
   def sentence?
-    sentense?.inc
+    sentense?.include
   end
 
   def question?
