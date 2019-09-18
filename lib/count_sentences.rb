@@ -16,6 +16,6 @@ class String
   end
 
   def count_sentences
-    if self.each_with_index(|item, in|)
+    if self.each_with_index(|item, index |)
   end
 end
