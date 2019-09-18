@@ -3,7 +3,7 @@ require 'pry'
 class String
 
   def sentence?
-    if sent.include?
+    if sentemce.include?
   end
 
   def question?
