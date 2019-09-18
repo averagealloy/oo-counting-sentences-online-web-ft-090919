@@ -16,7 +16,7 @@ class String
   end
 
   def count_sentences
-    self.each_with_index{|item, index| puts "#{index}")}
+    
   end
   end
 end
