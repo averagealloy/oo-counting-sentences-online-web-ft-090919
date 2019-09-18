@@ -4,7 +4,7 @@ class String
 
   def sentence?
     if sentence?.include? "."
-      e
+    end 
   end
 
   def question?
